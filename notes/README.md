@@ -1,2 +1,2 @@
 #Notes
-Daily notes of summaries
+Daily notes and summaries related to my cybersecurity learning.
