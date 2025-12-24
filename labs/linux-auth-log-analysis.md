@@ -22,3 +22,14 @@ Understand how authentication failures are recorded on a Linux system and how to
 
 ## Conclusion
 The observed authentication failures were consistent with normal user behavior (incorrect password entries) and did not indicate a security incident.
+
+## Screenshots
+
+### Authentication-related logs
+![Authentication logs](screenshots/day2-auth-log-analysis/journalctl-auth.png)
+
+### Failed events (including non-security noise)
+![Failed events](screenshots/day2-auth-log-analysis/journalctl-failed.png)
+
+### Authentication failure events
+![Authentication failure](screenshots/day2-auth-log-analysis/journalctl-auth-failure.png)
